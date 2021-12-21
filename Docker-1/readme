@@ -1,0 +1,1 @@
+This folder contains training modules on Docker. Pulling images and containerizing using Dockerfile and pushing images onto Dockerhub registry.
